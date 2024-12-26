@@ -12,7 +12,7 @@
  * @file <Add File Name> 
 //File Name : Lodha_Coursera
  * @brief <Add Brief Description Here >
-//Analytics on Array
+//Analytics on Sorted Array
  *
  * <Add Extended Description Here>
 //This code can analyse an array of unsigned char data items and report(print) analytics on the maximum, minimum, mean, and median of the data set. Additionally, it can sort the data set in descending order. 
